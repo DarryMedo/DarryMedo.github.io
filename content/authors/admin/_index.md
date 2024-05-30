@@ -1,29 +1,34 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Žiga Pavlovič
+
+first_name: Žiga 
+last_name: Pavlovič 
+
+name_pronounciation: ˈʒiːɡa paˈvlɔvitʃ 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'independent creative technologist'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🥽
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: KIBLA2LAB / KIBLA2LAB
+  url: "http://www.kibla.org/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My generalist skillset includes 3D design and 3D digitisation, genAI, XR development for cultural heritage. 
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Interactive design
+- 3D digitisation 
+- Artificial Intelligence
 
 #education:
 #  courses:
@@ -45,29 +50,32 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/darian_medved/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
-
+  - icon: linkedin
+    icon_pack 
+#TODO #1  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
+#TODO #2 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+BIO
+#TODO #3 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
